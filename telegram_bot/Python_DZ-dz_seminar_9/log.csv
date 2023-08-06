@@ -1,0 +1,16 @@
+20:24:35 Expression: 68+6
+20:24:35 Result = 74
+20:59:44 Expression: (2+3)*2
+20:59:44 Result = 10
+22:17:12 Expression: (5+3)*2
+22:17:12 Result = 16
+22:17:51 Expression: 1+2j-6
+22:17:51 Result = (-5+2j)
+23:22:54 Expression: (5+3)*2
+23:22:54 Result = 16
+23:28:56 Expression: (3+6)*8
+23:28:56 Result = 72
+23:31:24 Expression: 3+(5+4)*2
+23:31:24 Result = 21
+11:28:50 Expression: 5+3-(2+4)
+11:28:50 Result = 2
