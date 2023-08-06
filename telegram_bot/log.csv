@@ -14,3 +14,25 @@
 23:31:24 Result = 21
 11:28:50 Expression: 5+3-(2+4)
 11:28:50 Result = 2
+12:14:00 Expression: 2+4
+12:14:00 Result = 6
+12:41:42 Expression: 5+6
+12:41:42 Result = 11
+12:56:04 Expression: 5+8
+12:56:04 Result = 13
+13:14:47 Expression: 6-2+3
+13:14:47 Result = 7
+14:30:35 Expression: 3+4
+14:30:35 Result = 7
+16:24:11 Expression: 8+3
+16:24:11 Result = 11
+17:07:38 Expression: 3+9
+17:07:38 Result = 12
+23:50:16 Expression: 7*3
+23:50:16 Result = 21
+23:37:00 Expression: 4+3
+23:37:00 Result = 7
+20:37:26 Expression: 4+6*2
+20:37:26 Result = 16
+20:37:44 Expression: 2*(3+2)
+20:37:44 Result = 10

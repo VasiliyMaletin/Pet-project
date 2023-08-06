@@ -1,4 +1,5 @@
 from datetime import datetime
+import logging.config
 
 def expression_logger(data):
     time = datetime.now().strftime('%H:%M:%S') 
